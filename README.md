@@ -2,4 +2,3 @@
 - 👀 I’m interested in programming and forex
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on some interesting projects
-- 📫 filip.pawlicki77@gmail.com
