@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @filippawlicki
-- 👀 I’m interested in programming and forex
+- 👀 I’m interested in programming and finance
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on some interesting projects
