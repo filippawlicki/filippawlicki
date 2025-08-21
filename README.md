@@ -1,6 +1,6 @@
 # Hi, I'm Filip 👋
 
-Welcome to my GitHub profile! I'm a third-year Computer Science student at Gdańsk University of Technology, passionate about Artificial Intelligence and Machine Learning.
+I'm a Machine Learning Engineer @ Arex and 3-rd year CS student @ Gdansk University of Technology.
 
 ## 📫 Get In Touch
 - **Email**: [filip.pawlicki77@gmail.com](mailto:filip.pawlicki77@gmail.com)
